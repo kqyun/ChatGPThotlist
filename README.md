@@ -1,5 +1,5 @@
 # 最热门ChatGPT的项目导航大全
-### **本网页地址是:https://github.com/kqyun/ChatGPThotlist,欢迎转发**
+### **本网页地址是:https://github.com/kqyun/ChatGPThotlist  欢迎转发**
 
 **GitHub上目前已经有很多基于ChatGPT的项目，基本1000⭐️以上的都在这里了，汇总如下：**
 
