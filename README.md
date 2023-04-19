@@ -2,31 +2,25 @@
 最热门ChatGPT的项目导航大全
 # ChatGPThotlist
 
+# ChatGPThotlist
+
 GitHub上目前已经有很多基于ChatGPT的项目，基本1000⭐️以上的都在这里了，汇总如下：
 
 ## ChatGPT的项目大全导航
 
-Github最热的ChatGPT项目大全导航
-
-### 二级标题
-
-- 列表项1
-- 列表项2
-- 列表项3
-
-###- **使用指南：**
+### - **使用指南：**
 
 ChatGPT使用指南：https://github.com/f/awesome-chatgpt-prompts
 
 ChatGPT提问工程师开发指南：https://github.com/wuchangming/chat-gpt-ask-question-engineer-handbook
 
-###- **AutoGPT**
+### - **AutoGPT**
 
 AutoGPT使用指南:https://github.com/Significant-Gravitas/Auto-GPT
 
 
 
-###- **非官方API：**
+### - **非官方API：**
 
 使用Python编写的轻量级ChatGPT API：https://github.com/acheong08/ChatGPT
 
@@ -34,7 +28,7 @@ AutoGPT使用指南:https://github.com/Significant-Gravitas/Auto-GPT
 
 使用Python编写的非官方ChatGPT API：https://github.com/rawandahmad698/PyChatGPT
 
-###- **非官方客户端：**
+### - **非官方客户端：**
 
 使用nodejs编写的非官方ChatGPT客户端：https://github.com/transitive-bullshit/chatgpt-api
 
@@ -44,13 +38,13 @@ AutoGPT使用指南:https://github.com/Significant-Gravitas/Auto-GPT
 
 使用SwiftUI编写的OpenAI ChatGPT客户端iChatGPT，适用于iOS、iPadOS、macOS：https://github.com/37iOS/iChatGPT
 
-###- **编辑器插件：**
+### - **编辑器插件：**
 
 一个VSCode ChatGPT插件：https://github.com/mpociot/chatgpt-vscode
 
 一个支持ChatGPT在JetBrains系列IDE上运行的插件：https://github.com/obiscr/ChatGPT
 
-###- **浏览器插件：**
+### - **浏览器插件：**
 
 一个为ChatGPT添加web访问能力的Chrome浏览器插件：https://github.com/qunash/chatgpt-advanced
 
@@ -62,7 +56,7 @@ AutoGPT使用指南:https://github.com/Significant-Gravitas/Auto-GPT
 
 一个Chrome浏览器插件，可以导出你的ChatGPT历史到PNG、PDF，或生成一个可共享的链接：https://github.com/liady/ChatGPT-pdf
 
-###- **微信机器人：**
+### - **微信机器人：**
 
 ChatGPT微信机器人：https://github.com/AutumnWhj/ChatGPT-wechat-bot
 
@@ -74,7 +68,7 @@ ChatGPT微信机器人：https://github.com/AutumnWhj/ChatGPT-wechat-bot
 
 
 
-###- **QQ机器人：**
+### - **QQ机器人：**
 
 一个Python编写的基于Nonebot2的一个闲聊机器人：https://github.com/Quan666/ELFChatBot
 
@@ -84,13 +78,13 @@ ChatGPT for Mirai QQ机器人：https://github.com/lss233/chatgpt-mirai-qq-bot
 
 基于OpenAI ChatGPT开发的QQ对话机器人，调用Completion API，支持QQ私聊和群聊，mirai+ChatGPT+MySQL实现：https://github.com/RockChinQ/QChatGPT
 
-###- **电报机器人：**
+### - **电报机器人：**
 
 一个基于ChatGPT的Telegram机器人：https://github.com/m1guelpf/chatgpt-telegram
 
 一个ChatGPT Telegram机器人：https://github.com/altryne/chatGPT-telegram-bot
 
-###- **GIT工具：**
+### - **GIT工具：**
 
 使用ChatGPT自动生成commit提交信息：https://github.com/RomanHotsiy/commitgpt
 
@@ -98,7 +92,7 @@ ChatGPT for Mirai QQ机器人：https://github.com/lss233/chatgpt-mirai-qq-bot
 
 
 
-###- **其他：**
+### - **其他：**
 
 非官方的ChatGPT Raycast扩展：https://github.com/abielzulio/chatgpt-raycast
 
