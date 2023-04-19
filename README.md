@@ -3,7 +3,7 @@
 ## [国内注册ChatGPT视频教程  ](https://youtu.be/J9z6VCpmj_w)
 ## [科学上网教程指南](https://www.youtube.com/playlist?list=PLs7sV-9QB_cLpoQJFcaJBMnaVfr_YEDW4).  
 
-**GitHub上目前已经有很多基于ChatGPT的项目，基本1000⭐️以上的都在这里了，汇总如下：**
+## **GitHub上目前已经有很多基于ChatGPT的项目，基本1000⭐️以上的都在这里了，汇总如下：**
 
 ## ChatGPT的项目大全导航
 
