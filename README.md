@@ -1,4 +1,4 @@
-# 最热门ChatGPT的项目导航大全
+# 最热门ChatGPT项目导航大全指南
 ### **本网页地址是:https://github.com/kqyun/ChatGPThotlist  欢迎转发**
 ## [国内注册ChatGPT视频教程  ](https://youtu.be/J9z6VCpmj_w)
 ## [科学上网教程指南](https://www.youtube.com/playlist?list=PLs7sV-9QB_cLpoQJFcaJBMnaVfr_YEDW4).  
