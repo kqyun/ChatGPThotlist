@@ -101,3 +101,9 @@ ChatGPT黑魔法书，中文提问魔法指令：https://github.com/del-xiong/aw
 使用语音和ChatGPT对话：https://github.com/platelminto/chatgpt-conversation
 
 ChatGPT项目合集：https://github.com/humanloop/awesome-chatgpt
+
+欢迎大伙在下方补充,期望我们建立我们认知的平台,
+保持学习,认知变现
+
+我的YouTube频道:https://www.youtube.com/@kingqiang_
+ChatGPT中文社区:https://t.me/ZhChatGPT
