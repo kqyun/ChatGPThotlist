@@ -1,10 +1,6 @@
-# ChatGPThotlist
-最热门ChatGPT的项目导航大全
-# ChatGPThotlist
+# 最热门ChatGPT的项目导航大全
 
-# ChatGPThotlist
-
-GitHub上目前已经有很多基于ChatGPT的项目，基本1000⭐️以上的都在这里了，汇总如下：
+**GitHub上目前已经有很多基于ChatGPT的项目，基本1000⭐️以上的都在这里了，汇总如下：**
 
 ## ChatGPT的项目大全导航
 
