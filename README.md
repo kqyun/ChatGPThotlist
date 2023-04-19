@@ -11,6 +11,8 @@
 
 ChatGPT使用指南：https://github.com/f/awesome-chatgpt-prompts
 
+ChatGPT中文使用指南:https://github.com/kqyun/GPTcn
+
 ChatGPT提问工程师开发指南：https://github.com/wuchangming/chat-gpt-ask-question-engineer-handbook
 
 ### - **AutoGPT**
