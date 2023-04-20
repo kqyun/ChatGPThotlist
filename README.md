@@ -2,10 +2,12 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 [![Code License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/yzfly/awesome-chatgpt-zh/blob/main/LICENSE)
 [![slack badge](https://img.shields.io/badge/Telegrem-join-blueviolet?logo=telegrem&amp)](https://t.me/ZhChatGPT)
-[GitHub 持续更新，欢迎关注，欢迎 star ~](https://github.com/kqyun/GPTcn)
+
+
+### [GitHub 持续更新，欢迎关注，欢迎 star ~](https://github.com/kqyun/GPTcn)
 
 ### **本网页地址是:https://github.com/kqyun/ChatGPThotlist  欢迎转发**
-## [国内注册ChatGPT视频教程  ](https://youtu.be/J9z6VCpmj_w)
+## [手把手保姆式国内注册ChatGPT视频教程  ](https://youtu.be/J9z6VCpmj_w)
 ## [科学上网教程指南](https://www.youtube.com/playlist?list=PLs7sV-9QB_cLpoQJFcaJBMnaVfr_YEDW4).  
 
 ## **GitHub上目前已经有很多基于ChatGPT的项目，基本1000⭐️以上的都在这里了，汇总如下：**
