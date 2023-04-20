@@ -1,4 +1,4 @@
-# 🤖 最热门ChatGPT项目导航大全指南 🤖
+# 🤖 最热门ChatGPT项大全导航指南 🤖
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 [![Code License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/yzfly/awesome-chatgpt-zh/blob/main/LICENSE)
 [![slack badge](https://img.shields.io/badge/Telegrem-join-blueviolet?logo=telegrem&amp)](https://t.me/ZhChatGPT)
