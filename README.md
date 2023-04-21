@@ -27,6 +27,10 @@ ChatGPT提问工程师开发指南：https://github.com/wuchangming/chat-gpt-ask
 AutoGPT使用指南:https://github.com/Significant-Gravitas/Auto-GPT
 
 
+### - **牛逼的插件**
+一个插件解决ChatGPT报错问题:https://github.com/xcanwin/KeepChatGPT
+
+
 
 ### - **非官方API：**
 
