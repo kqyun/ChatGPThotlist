@@ -29,6 +29,7 @@ AutoGPT使用指南:https://github.com/Significant-Gravitas/Auto-GPT
 
 ### - **牛逼的插件**
 一个插件解决ChatGPT报错问题:https://github.com/xcanwin/KeepChatGPT
+
 一款自称全能的插件:https://github.com/josStorer/chatGPTBox
 
 
